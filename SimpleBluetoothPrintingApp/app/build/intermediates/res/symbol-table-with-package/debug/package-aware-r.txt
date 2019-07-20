@@ -1,0 +1,25 @@
+mate.simple.bluetoothdemo
+dimen activity_horizontal_margin
+dimen activity_vertical_margin
+drawable ic_launcher
+id btnBarCode
+id btnImage
+id btnMultilingual
+id btnQr
+id btnTabular
+id btnText
+id button_scan
+id img
+id mywebView
+id new_devices
+id paired_devices
+id title_new_devices
+id title_paired_devices
+layout activity_main
+layout device_list
+layout device_name
+layout webview
+menu main
+string action_settings
+string app_name
+string descprint

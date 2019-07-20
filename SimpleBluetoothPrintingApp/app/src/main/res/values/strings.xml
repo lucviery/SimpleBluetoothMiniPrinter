@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Simple Bluetooth Printing</string>
+    <string name="descprint">Click following buttons to call print function</string>
+    <string name="action_settings">Settings</string>
+
+</resources>

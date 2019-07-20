@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Work\\MegaueIngressos\\SimpleBluetoothPrintingApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_device_list.xml.flat",
+        "source": "C:\\Work\\MegaueIngressos\\SimpleBluetoothPrintingApp\\app\\src\\main\\res\\layout\\device_list.xml"
+    },
+    {
+        "merged": "C:\\Work\\MegaueIngressos\\SimpleBluetoothPrintingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Work\\MegaueIngressos\\SimpleBluetoothPrintingApp\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Work\\MegaueIngressos\\SimpleBluetoothPrintingApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_device_name.xml.flat",
+        "source": "C:\\Work\\MegaueIngressos\\SimpleBluetoothPrintingApp\\app\\src\\main\\res\\layout\\device_name.xml"
+    },
+    {
+        "merged": "C:\\Work\\MegaueIngressos\\SimpleBluetoothPrintingApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_webview.xml.flat",
+        "source": "C:\\Work\\MegaueIngressos\\SimpleBluetoothPrintingApp\\app\\src\\main\\res\\layout\\webview.xml"
+    },
+    {
+        "merged": "C:\\Work\\MegaueIngressos\\SimpleBluetoothPrintingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Work\\MegaueIngressos\\SimpleBluetoothPrintingApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Work\\MegaueIngressos\\SimpleBluetoothPrintingApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Work\\MegaueIngressos\\SimpleBluetoothPrintingApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Work\\MegaueIngressos\\SimpleBluetoothPrintingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Work\\MegaueIngressos\\SimpleBluetoothPrintingApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Work\\MegaueIngressos\\SimpleBluetoothPrintingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Work\\MegaueIngressos\\SimpleBluetoothPrintingApp\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Work\\MegaueIngressos\\SimpleBluetoothPrintingApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "C:\\Work\\MegaueIngressos\\SimpleBluetoothPrintingApp\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]

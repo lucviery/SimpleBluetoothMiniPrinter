@@ -1,0 +1,86 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Work\MegaueIngressos\SimpleBluetoothPrintingApp\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Work\MegaueIngressos\SimpleBluetoothPrintingApp\app\src\main\AndroidManifest.xml:2:1-32:12
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\luciano\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\898590c099bcd28583bce39f74ff6d2d\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Work\MegaueIngressos\SimpleBluetoothPrintingApp\app\src\main\AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from C:\Work\MegaueIngressos\SimpleBluetoothPrintingApp\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from C:\Work\MegaueIngressos\SimpleBluetoothPrintingApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Work\MegaueIngressos\SimpleBluetoothPrintingApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Work\MegaueIngressos\SimpleBluetoothPrintingApp\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Work\MegaueIngressos\SimpleBluetoothPrintingApp\app\src\main\AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from C:\Work\MegaueIngressos\SimpleBluetoothPrintingApp\app\src\main\AndroidManifest.xml:6:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Work\MegaueIngressos\SimpleBluetoothPrintingApp\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from C:\Work\MegaueIngressos\SimpleBluetoothPrintingApp\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Work\MegaueIngressos\SimpleBluetoothPrintingApp\app\src\main\AndroidManifest.xml:8:5-68
+	android:name
+		ADDED from C:\Work\MegaueIngressos\SimpleBluetoothPrintingApp\app\src\main\AndroidManifest.xml:8:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Work\MegaueIngressos\SimpleBluetoothPrintingApp\app\src\main\AndroidManifest.xml:9:5-74
+	android:name
+		ADDED from C:\Work\MegaueIngressos\SimpleBluetoothPrintingApp\app\src\main\AndroidManifest.xml:9:22-71
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Work\MegaueIngressos\SimpleBluetoothPrintingApp\app\src\main\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from C:\Work\MegaueIngressos\SimpleBluetoothPrintingApp\app\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Work\MegaueIngressos\SimpleBluetoothPrintingApp\app\src\main\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from C:\Work\MegaueIngressos\SimpleBluetoothPrintingApp\app\src\main\AndroidManifest.xml:11:22-76
+application
+ADDED from C:\Work\MegaueIngressos\SimpleBluetoothPrintingApp\app\src\main\AndroidManifest.xml:13:5-30:19
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\luciano\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\898590c099bcd28583bce39f74ff6d2d\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\luciano\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\898590c099bcd28583bce39f74ff6d2d\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\Work\MegaueIngressos\SimpleBluetoothPrintingApp\app\src\main\AndroidManifest.xml:16:9-41
+	android:icon
+		ADDED from C:\Work\MegaueIngressos\SimpleBluetoothPrintingApp\app\src\main\AndroidManifest.xml:15:9-45
+	android:allowBackup
+		ADDED from C:\Work\MegaueIngressos\SimpleBluetoothPrintingApp\app\src\main\AndroidManifest.xml:14:9-35
+activity#mate.simple.bluetoothdemo.MainActivity
+ADDED from C:\Work\MegaueIngressos\SimpleBluetoothPrintingApp\app\src\main\AndroidManifest.xml:17:9-26:20
+	android:label
+		ADDED from C:\Work\MegaueIngressos\SimpleBluetoothPrintingApp\app\src\main\AndroidManifest.xml:19:13-45
+	android:theme
+		ADDED from C:\Work\MegaueIngressos\SimpleBluetoothPrintingApp\app\src\main\AndroidManifest.xml:20:13-66
+	android:name
+		ADDED from C:\Work\MegaueIngressos\SimpleBluetoothPrintingApp\app\src\main\AndroidManifest.xml:18:13-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Work\MegaueIngressos\SimpleBluetoothPrintingApp\app\src\main\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from C:\Work\MegaueIngressos\SimpleBluetoothPrintingApp\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from C:\Work\MegaueIngressos\SimpleBluetoothPrintingApp\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Work\MegaueIngressos\SimpleBluetoothPrintingApp\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from C:\Work\MegaueIngressos\SimpleBluetoothPrintingApp\app\src\main\AndroidManifest.xml:24:27-74
+activity#mate.simple.bluetoothdemo.DeviceListActivity
+ADDED from C:\Work\MegaueIngressos\SimpleBluetoothPrintingApp\app\src\main\AndroidManifest.xml:27:9-29:63
+	android:theme
+		ADDED from C:\Work\MegaueIngressos\SimpleBluetoothPrintingApp\app\src\main\AndroidManifest.xml:29:13-60
+	android:name
+		ADDED from C:\Work\MegaueIngressos\SimpleBluetoothPrintingApp\app\src\main\AndroidManifest.xml:28:13-72
+uses-sdk
+INJECTED from C:\Work\MegaueIngressos\SimpleBluetoothPrintingApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Work\MegaueIngressos\SimpleBluetoothPrintingApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Work\MegaueIngressos\SimpleBluetoothPrintingApp\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\luciano\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\898590c099bcd28583bce39f74ff6d2d\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\luciano\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\898590c099bcd28583bce39f74ff6d2d\AndroidManifest.xml:20:5-43
+INJECTED from C:\Work\MegaueIngressos\SimpleBluetoothPrintingApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Work\MegaueIngressos\SimpleBluetoothPrintingApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Work\MegaueIngressos\SimpleBluetoothPrintingApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Work\MegaueIngressos\SimpleBluetoothPrintingApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Work\MegaueIngressos\SimpleBluetoothPrintingApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Work\MegaueIngressos\SimpleBluetoothPrintingApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Work\MegaueIngressos\SimpleBluetoothPrintingApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Work\MegaueIngressos\SimpleBluetoothPrintingApp\app\src\main\AndroidManifest.xml
